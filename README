@@ -1,3 +1,8 @@
+This specically formulated version of dfu-utils designed with the intend of statically linking libusb to create standalone operation on mac computers
+
+******** Not Working ... yet *********
+
+
 Dfu-util - Device Firmware Upgrade Utilities
 
 Dfu-util is the host side implementation of the DFU 1.0 [1] and DFU 1.1 [2]
