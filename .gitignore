@@ -9,6 +9,7 @@ src/dfu-suffix
 src/dfu-prefix
 src/dfu-util
 src/dfu-version.h
+output
 stamp-h1
 Win32/
 msvc/ipch/
